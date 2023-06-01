@@ -1,0 +1,2 @@
+![Captura de Tela (47)](https://github.com/limamario441/RECRIANDO-FACE-COMTAILWIND-CSS/assets/88130044/088afe9e-3580-480c-b038-ce5963a4383c)
+# RECRIANDO-FACE-COMTAILWIND-CSS
